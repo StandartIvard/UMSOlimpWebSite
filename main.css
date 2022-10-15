@@ -32,3 +32,25 @@ body {
   height: 50px;
   border-bottom: 0.1px grey solid;
 }
+
+#navigationBars {
+  border-right: 0.1px grey solid;
+  width: 3.2%;
+  cursor: pointer;
+
+}
+
+.newsBlock {
+  border: 1px black solid;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 20px;
+  height: 300px;
+}
+
+.title {
+  text-align: center;
+  border-bottom: 0.1px grey solid;
+  
+}
